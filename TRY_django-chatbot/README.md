@@ -1,0 +1,1 @@
+Try chat-bot with Django+CELERY
